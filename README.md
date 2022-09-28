@@ -1,7 +1,7 @@
 Emp11-Emp11 class is to demonstrate intializing variables using constructor and displaying the details of employee.
 
 
-Methodoverloading-Methodoverloading class is to demonstrate method overloading concept using inheritance.
+Emp_Methodoverloading-Emp_Methodoverloading class is to demonstrate method overloading concept using inheritance.
 
 
 Emp_Methodoverriding-Emp_Methodoverriding class is to demonstrate method overriding concept using inheritance.
