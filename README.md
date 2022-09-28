@@ -1,35 +1,36 @@
-Emp2-Employee detail code using constructor
-
-Methodoverloading-method overloading concept using inheritance
+Emp11-Emp11 class is to demonstrate intializing variables using constructor and displaying the details of employee.
 
 
-Employee-continue statement using for each loop
+Methodoverloading-Methodoverloading class is to demonstrate method overloading concept using inheritance.
 
 
-Emp12-if-else decision making statement
+Employee-Employee class is to demonstrate continue statement using for each loop.
 
 
-switch-switch condition 
+Emp12-Emp12 class is to demonstrate if-else decision making statements.
 
 
-Substring-substring class is to demonstrate extracting substring from a string
+switch-switch class is to demonstrate the switch condition statements.
 
 
-Reverstring-Reverstring class is to demonstrate reversing
+Substring-substring class is to demonstrate extracting substring from a string. 
+
+
+Reverstring-Reverstring class is to demonstrate reversing a string using single for loop and charAt() string method.
 
 
 Immutable-immutable class to demonstrate immutable class as well as immutable members of that class using final and private keywords
 
 
-Regexvalidation-Regular expression class is to validate the employee details like mail,id,pn and adress.
+Regexvalidation-Regexvalidation class is to validate the employee details like mail,id,pn and adress.
 
 
-Exptest-Java Exception Handling in which we are using a try-catch and finally statement to handle the exception.
+Exptest-Exptest class is to demonstrate Java Exception Handling in which we are using a try-catch and finally statement to handle the exception.
 
 
-Stringthrow-Java Exception Handling in which we are using a Stringthrow concept bu using if-else condition to handle the exception.
+Stringthrow-Stringthrow class is to demonstrate the Java Exception Handling in which we are using a Stringthrow concept bu using if-else condition to handle the exception.
 
 
-Exception1-Java Exception Handling in which we are using a super statement by using the concept of inheritence and constructor to handle the exception.
+Exception1-Exception1 class is to demonstrate the java Exception Handling in which we are using a super statement by using the concept of inheritence and constructor to handle the exception.
 
 
