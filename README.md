@@ -37,3 +37,4 @@ Stringthrow-Stringthrow class is to demonstrate the Java Exception Handling in w
 Exception1-Exception1 class is to demonstrate the java Exception Handling in which we are using a super statement by using the concept of inheritence and constructor to handle the exception.
 
 
+NodeRunner-NodeRunner class is to demonstrate the linked list class which add one link to another and display linked list.
