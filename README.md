@@ -41,12 +41,21 @@ NodeRunner-NodeRunner class is to demonstrate the linked list class which add on
 
 
 map-map class is to demonstrate the java collection in which  we are using hash map concept with for and if condition to handle the java program.
-HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique. If you try to insert the duplicate key, it will replace the element of the corresponding key. It is easy to perform operations using the key index like updation, deletion, etc. HashMap class is found in the java.util package. 
+HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique. If you try to insert the duplicate key, it will replace the element of the corresponding key. It is easy to perform operations using the key index like updation, deletion, etc. HashMap class is found in the java.util package.
+Java HashMap is non synchronized.
+Java HashMap maintains no order.
 
 
-Linkedhash-Linked hash is to demonstrate the java collection in which we are Linkedhash map concept to handle java program.
+Linkedhash-Linked hash is to demonstrate the java collection in which we are using Linkedhash map concept to handle java program.
 Linked list implementation of the Map interface, with predictable iteration order. It inherits HashMap class and implements the Map interface.
+Java LinkedHashMap is non synchronized.
+Java LinkedHashMap maintains insertion order. 
 
+
+Treemap1-Treemap1 class is to demonstrate the java collection in which we are using Treehash map concept to handle java program.
+Java TreeMap contains values based on the key. It implements the NavigableMap interface and extends AbstractMap class.
+Java TreeMap contains only unique elements.
+Java TreeMap maintains ascending order.
 
 
 
