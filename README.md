@@ -38,3 +38,8 @@ Exception1-Exception1 class is to demonstrate the java Exception Handling in whi
 
 
 NodeRunner-NodeRunner class is to demonstrate the linked list class which add one link to another and display linked list.
+
+
+map=map class is to demonstrate the java collection in which  we are using hash map concept with for and if condition to handle the java program.
+
+
