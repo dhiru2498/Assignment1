@@ -49,7 +49,8 @@ Java HashMap maintains no order.
 Linkedhash-Linked hash is to demonstrate the java collection in which we are using Linkedhash map concept to handle java program.
 Linked list implementation of the Map interface, with predictable iteration order. It inherits HashMap class and implements the Map interface.
 Java LinkedHashMap is non synchronized.
-Java LinkedHashMap maintains insertion order. 
+Java LinkedHashMap maintains insertion order.
+
 
 
 Treemap1-Treemap1 class is to demonstrate the java collection in which we are using Treehash map concept to handle java program.
@@ -59,6 +60,9 @@ Java TreeMap maintains ascending order.
 
 
 EmpD-EmpD class is to demonstrate the java collection in which we are using map concept which explain the map interface  that value can be duplicated and demonstrated it by taking the data of employee id and employee name.
+
+
+MyThread-MyThread class is to demonstrate the java multithreading using join method to display the working of two threads simultaneously. 
 
 
 
