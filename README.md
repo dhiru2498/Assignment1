@@ -86,7 +86,15 @@ Java TreeMap maintains ascending order.
 EmpD-EmpD class is to demonstrate the java collection in which we are using map concept which explain the map interface  that value can be duplicated and demonstrated it by taking the data of employee id and employee name.
 
 
+Threaddemo class-Threaddemo class is to create a threads by extending Thread class and printing each thread names while particular run method is called.
+
+
 MyThread-MyThread class is to demonstrate the java multithreading using join method to display the working of two threads simultaneously. 
+
+
+CounterIncrementDecrement class-CountIncrementDecrementUsingThread class is to demonstrate the way of execution of two threads using a count variable.
+
+
 
 
 
