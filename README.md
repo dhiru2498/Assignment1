@@ -40,6 +40,27 @@ Exception1-Exception1 class is to demonstrate the java Exception Handling in whi
 NodeRunner-NodeRunner class is to demonstrate the linked list class which add one link to another and display linked list.
 
 
+
+    TestSet class is to demonstrate the properties of HashSet.
+
+    Doesn't allow duplicate values.
+    Allows at most one null value.
+    Doesn't follow insertion order.
+    
+    
+    
+    TestLinkedHashSet class is to demonstrate the properties of LinkedHashSet.
+    Doesn't allow duplicate values.
+    Allows at most one null value.
+    It follows insertion order.
+    
+    
+    
+    TestTreeSet class is to demonstrate the properties of TreeSet.
+    Provides sorted values of list.
+    Doesn't allow null value.
+
+
 map-map class is to demonstrate the java collection in which  we are using hash map concept with for and if condition to handle the java program.
 HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique. If you try to insert the duplicate key, it will replace the element of the corresponding key. It is easy to perform operations using the key index like updation, deletion, etc. HashMap class is found in the java.util package.
 Java HashMap is non synchronized.
@@ -66,6 +87,9 @@ EmpD-EmpD class is to demonstrate the java collection in which we are using map 
 
 
 MyThread-MyThread class is to demonstrate the java multithreading using join method to display the working of two threads simultaneously. 
+
+
+
 
 
 
