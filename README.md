@@ -46,6 +46,9 @@ Java HashMap is non synchronized.
 Java HashMap maintains no order.
 
 
+Hashmapwithoutduplicate class-Hashmapwithoutduplicate class is to demonstrate the hashmap class which ignores the duplicate values and overwrites the earlier entry with new entry.
+
+
 Linkedhash-Linked hash is to demonstrate the java collection in which we are using Linkedhash map concept to handle java program.
 Linked list implementation of the Map interface, with predictable iteration order. It inherits HashMap class and implements the Map interface.
 Java LinkedHashMap is non synchronized.
