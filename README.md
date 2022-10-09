@@ -92,7 +92,7 @@ Threaddemo class-Threaddemo class is to create a threads by extending Thread cla
 MyThread-MyThread class is to demonstrate the java multithreading using join method to display the working of two threads simultaneously. 
 
 
-CounterIncrementDecrement class-CountIncrementDecrementUsingThread class is to demonstrate the way of execution of two threads using a count variable.
+Threadcountincrementanddecrement class-Threadcountincrementanddecrement class is to demonstrate the way of execution of two threads using a count variable.
 
 
 
