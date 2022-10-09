@@ -41,7 +41,7 @@ NodeRunner-NodeRunner class is to demonstrate the linked list class which add on
 
 
 
-    TestSet class is to demonstrate the properties of HashSet.
+TestSet class-TestSet class is to demonstrate the properties of HashSet.
 
     Doesn't allow duplicate values.
     Allows at most one null value.
@@ -49,14 +49,14 @@ NodeRunner-NodeRunner class is to demonstrate the linked list class which add on
     
     
     
-    TestLinkedHashSet class is to demonstrate the properties of LinkedHashSet.
+TestLinkedHashSet class-TestLinkedHashSet class is to demonstrate the properties of LinkedHashSet.
     Doesn't allow duplicate values.
     Allows at most one null value.
     It follows insertion order.
     
     
     
-    TestTreeSet class is to demonstrate the properties of TreeSet.
+TestTreeSet class-TestTreeSet class is to demonstrate the properties of TreeSet.
     Provides sorted values of list.
     Doesn't allow null value.
 
