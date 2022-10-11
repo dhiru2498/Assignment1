@@ -95,6 +95,13 @@ MyThread-MyThread class is to demonstrate the java multithreading using join met
 Threadcountincrementanddecrement class-Threadcountincrementanddecrement class is to demonstrate the way of execution of two threads using a count variable.
 
 
+BasicThreadWithoutusinganythread class-BasicThreadWithoutusinganythread class execution using for loop from int i 0-100 and call increment is used .
+
+
+
+
+
+
 
 
 
