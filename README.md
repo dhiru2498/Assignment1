@@ -107,6 +107,9 @@ BaicThreadwithdataconsistency class-Two threads are there in a class and for the
 Syncronization_Block class-Syncronization_Block class is to demonstrate synchronization of multiple thread using synchronized keyword.
 
 
+ThreawithNotifyandwaitcondition class-ThreadwithNotifyandWaitcondition class is to  demonstrate the wait and notify methods of threads while printing odd and even numbers.
+
+
 
 
 
